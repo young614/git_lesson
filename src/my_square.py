@@ -1,9 +1,8 @@
-def my_square(x):
+def my_square(y):
 	"""takes a value and returns the squared value.
 	
 	uses the ** operator - remote change update 1st
 	"""
-	return(x ** 2)
+	return(y ** 2)
 
-print(my_square(5))
-#Local change update 2nd
+print(my_square(6)) #Local change
