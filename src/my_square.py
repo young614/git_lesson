@@ -1,7 +1,7 @@
 def my_square(x):
 	"""takes a value and returns the squared value.
 	
-	uses the ** operator
+	uses the ** operator - remote change update 1st
 	"""
 	return(x ** 2)
 
